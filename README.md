@@ -1,8 +1,10 @@
 ## About The Project
 
-Ux Implementation of a Figma prototype into a usable website. All materials from the UX course (including the figma prototype) is found in the folder "UX". 
+This projects was a part of my front end developer education. This is a UX implementation of a Figma prototype made into a usable website. All materials from the UX course (including the figma prototype) is found in the folder "UX". 
 
 ## Figma Prototype
+
+Click on the picture below to see the Figma prototype:
 
   <a href="https://www.figma.com/proto/wEN9ay1rS7nt2kjkOsoNDg/Sellpy-reparationslokal?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1">
       <img src="public/images/Figmaprototype.webp" alt="ScreenshotOfFigmaPrototype">
@@ -12,7 +14,7 @@ Ux Implementation of a Figma prototype into a usable website. All materials from
 
   https://sellpy-service-hall.surge.sh/
 
-### Built With
+## Built With
 
 - [React](https://reactjs.org/)
 - [Firebase](https://firebase.google.com/docs/guides)

@@ -27,25 +27,6 @@ import GridLoader from "react-spinners/GridLoader";
 const Body = styled.body`
 min-height: 900px;
 height: 100%;
-
-/* height: 100vh;
-padding-bottom: 100px;
-
-@media (max-width: 320px) {
-  padding-bottom: 300px;
-}
-
-@media (min-width: 321px) and (max-width: 360px) {
-  padding-bottom: 190px;
-}  
-
- @media (min-width: 361px) and (max-width: 413px) {
-  padding-bottom: 60px;
-}  
-
-@media (min-width: 414px) and (max-width: 428px) {
-  padding-bottom: 160px;
-}  */
 `;
 
 const PageHeader = styled.div`
@@ -60,7 +41,7 @@ margin-bottom: 40px;
   font-size: 10px;
 }
 
-p{ 
+p{
   text-align: center;
 margin: 4px;
 }
@@ -101,7 +82,7 @@ p {
   margin: 0px;
 }
 
-button { 
+button {
   outline: none; 
   border: none;
   background: none;
